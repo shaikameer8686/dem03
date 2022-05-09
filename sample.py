@@ -1,3 +1,4 @@
-import json 
-print This is python"
+import json
+print "Adding the new changes in Sample.py file"  
+print "This is python"
 
